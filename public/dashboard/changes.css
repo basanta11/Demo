@@ -1,0 +1,55 @@
+input[aria-invalid="true"] {
+    border-color: red !important;
+  }
+  
+  input[aria-invalid="false"] {
+    /* border-color: green; */
+  }
+  .invalid {
+    width: 100%;
+    margin-top: .25rem;
+    font-size: 80%;
+    color: #dc3545 !important;
+}
+.col-form-label{
+    font-weight: 600;
+}
+.pointer-off{
+
+        pointer-events: none;
+      
+}
+.image-preview {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  padding: 20px;
+}
+img.preview {
+  background-color: white;
+  border: 1px solid #DDD;
+  padding: 5px;
+}
+.toast-success{
+  background-color: green;
+}
+.center{
+  text-align: center;
+}
+.modal-backdrop.show {
+  opacity: .0 !important;
+}
+.ui.search.selection.dropdown
+{
+  background-color: rgba(255,255,255,.1) !important;
+    border-color: rgba(255,255,255,.15) !important;
+}
+option{
+  color: black;
+
+  background-color: rgba(255,255,255,.1) !important;
+  border-color: rgba(255, 255, 255, 0.329) !important;
+}
+.ui.selection.dropdown .menu>.item  {
+
+  background-color: rgba(255,255,255,.1) !important;
+  border-color: rgba(255, 255, 255, 0.329) !important;
+}
