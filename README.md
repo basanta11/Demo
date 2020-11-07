@@ -9,12 +9,14 @@ Procedure to Run On Local machine
 2. cd into your project	
 <br/>
 3.install Composer Dependencies using "composer update"	
+<br/>
 4. intsall npm using "npm install"
 <br/>
-5. create "test" databse and run "php artisan migrate"
-5. Start Apache  and my sql Server Form Softwares Like xampp	
+6. create "test" databse and run "php artisan migrate"
 <br/>
-6. Run "php artisan serve" to start deployment	
+7. Start Apache  and my sql Server Form Softwares Like xampp	
+<br/>
+8. Run "php artisan serve" to start deployment	
 <br/>
 
 
